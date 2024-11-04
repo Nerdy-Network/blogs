@@ -2,7 +2,7 @@
 layout: post
 title: "Brain-Computer Interfaces (BCIs) : Transforming Ideas into Actions"
 description: "Brain-Computer Interfaces (BCIs) : Transforming Ideas into Actions"
-date:   2024-11-01 10:00:00 +0300
+date:   2024-11-02 10:00:00 +0300
 image:  '/images/bci.jpeg'
 tags:   [Blogging, Neuroscience, Technology]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "How the Brain Processes Music: Insights from Neuroscience"
-description: "How the Brain Processes Music"
+title: "The Role of Technology in Supporting Individual With Autism"
+description: "The Role of Technology in Supporting Individual With Autism"
 date:   2024-11-04 10:00:00 +0300
 image:  '/images/music-to-brain.jpg'
 tags:   [Blogging, Neuroscience, Technology]
